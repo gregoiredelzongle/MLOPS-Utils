@@ -1,8 +1,7 @@
 # MLOPS Utils
 
 ## Image projection to points
-
-![mlop_interface](https://github.com/gregoiredelzongle/MLOPS-Utils/assets/9194561/4f5616b8-66dc-47e9-9e18-9d129317af97)
+![mlop_interface](https://github.com/gregoiredelzongle/MLOPS-Utils/assets/9194561/c7cfdd80-220c-4f00-b715-3a8fc987d7f5)
 
 Can be used to project an image/texture in SOP context, and output colored points with alpha
 
